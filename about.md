@@ -1,6 +1,6 @@
 # Michelle Morgenbesser
 ## Director of Product - Teamshares
-###Product Coach - Haas Business School Exec Ed
+### Product Coach - Haas Business School Exec Ed
 
 ~~~~
 
