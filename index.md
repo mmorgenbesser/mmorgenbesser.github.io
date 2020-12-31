@@ -24,7 +24,7 @@ Data Science Project (not launched)
 
 Director of product over supply, data, and pricing 
 
-![sell flow](http://g.recordit.co/56i3xEYPT3.gif)
+http://g.recordit.co/56i3xEYPT3.gif
 Vroom.com/sell
 
 Algorithm and front-end to instantly give a customer a price on a vehicle they want to sell. No photos required. 
