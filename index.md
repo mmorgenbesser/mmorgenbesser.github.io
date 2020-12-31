@@ -9,6 +9,7 @@
 #### Principal: Walmart, New Product Innovation
 
 Principal PM for an innovation team within Walmart. We incubated many new ideas from our office in Greenpoint, Brooklyn. Some launched, some didn't.
+
 [Walmart+](https://www.walmart.com/plus)
 [InHome Grocery Delivery](inhome.walmart.com)
 Rx Delivery
