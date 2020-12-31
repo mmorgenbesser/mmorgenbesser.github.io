@@ -1,10 +1,14 @@
+
+
 # Michelle Morgenbesser
+
 ## Director of Product - Teamshares
 ### [Product Coach - Haas Business School Exec Ed](https://executive.berkeley.edu/programs/product-management-studio)
 
 
 
 ### ~~ Past ~~ 
+
 
 #### Principal: Walmart, New Product Innovation
 
@@ -19,6 +23,7 @@ Rx Delivery
 Health Project (not launched)
 
 Data Science Project (not launched)
+
 
 #### Director: Vroom
 
